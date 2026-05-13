@@ -1,5 +1,5 @@
 # Arsenic Distribution in Nogueiredo Stream (Castrelo de Miño, Ourense)
-
+🗺️ [View interactive map](https://xlopvaz.github.io/mapa_as/mapa_as_nogueiredo.html)
 Interactive map showing arsenic concentrations along the Nogueiredo stream, 
 developed as part of my Bachelor's Thesis in Chemistry at the University of Vigo.
 
