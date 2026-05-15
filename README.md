@@ -1,8 +1,11 @@
 # Environmental Assessment of Nogueiredo Stream (Castrelo de Miño, Ourense)
 
-🗺️ **[View arsenic distribution map](https://xlopvaz.github.io/TFG-Environmental-Assessment-Castrelo/maps/arsenic_map.html)**
+## 🌐 Project Website
+**[View full project website](https://xlopvaz.github.io/TFG-Environmental-Assessment-Castrelo/TFG_web2.html)**
 
-🔴 **[View arsenic predictive model](https://xlopvaz.github.io/TFG-Environmental-Assessment-Castrelo/maps/arsenic_predictive_map.html)**
+## 🗺️ Interactive Maps
+- [Arsenic distribution map](https://xlopvaz.github.io/TFG-Environmental-Assessment-Castrelo/maps/arsenic_map.html)
+- [Arsenic predictive model](https://xlopvaz.github.io/TFG-Environmental-Assessment-Castrelo/maps/arsenic_predictive_map.html)
 
 Interactive maps showing arsenic concentrations along the Nogueiredo stream, developed as part of my Bachelor's Thesis in Chemistry at the University of Vigo.
 
