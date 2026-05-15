@@ -2,7 +2,7 @@
 
 ## 🌐 Project Website
 - 🇬🇧 **[View in English](https://xlopvaz.github.io/TFG-Environmental-Assessment-Castrelo/TFG_web2.html)**
-- 🏴 **[Ver en Galego](https://xlopvaz.github.io/TFG-Environmental-Assessment-Castrelo/TFG_web2_gl.html)**
+- 🔵⚪️ **[Ver en Galego](https://xlopvaz.github.io/TFG-Environmental-Assessment-Castrelo/TFG_web2_gl.html)**
 
 ## 🗺️ Interactive Maps
 - [Arsenic distribution map](https://xlopvaz.github.io/TFG-Environmental-Assessment-Castrelo/maps/arsenic_map.html)
